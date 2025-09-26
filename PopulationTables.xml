@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<populations>
+    <population Name="Implants_4PlusPointers" Load="Merge">
+        <group Name="Items" Load="Merge">
+            <object Weight="3" Blueprint="RealHomosapien_ZetachromeHandBones" />
+        </group>
+    </population>
+</populations>
